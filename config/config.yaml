@@ -1,0 +1,15 @@
+app:
+  name: 'bootstrapservice'
+  version: '1.0.0'
+
+http:
+  port: '8080'
+
+logger:
+  log_level: 'debug'
+
+
+mongo:
+    host: 'localhost'
+    port: 27017
+    db: 'beer'

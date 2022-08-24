@@ -1,0 +1,1 @@
+This is where specific logging related functions go
